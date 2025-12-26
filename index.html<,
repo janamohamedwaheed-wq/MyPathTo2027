@@ -1,0 +1,23 @@
+<DOCTYPE html>
+  <html lang="en">
+    <meta charset="UTF">
+    <title>Jana's Journy 2027</title>
+  </head>
+  <body>
+    <h1> welcome, to my path to 2027</h1>
+    
+    <p>I am jana, a 16-years-old developer and language enthusiast.</p>
+
+    <h2>Web devolopment</h2>
+    <p>I am currently learning HTML and CSS to build professional websites.</p>
+
+    <h2>Cyber security</h2>
+    <p>I am very intersdted in data protection and safe computing.</p>
+
+    <h2>Languages</h2>
+    <p>I love learning languages. I am studying chinese, korean, and french.</p>
+
+    <h2>My Goal</h2>
+    <p>I want to use technology to solve water problems through my smart irrigation project.</p>
+  </body>
+  </html>
